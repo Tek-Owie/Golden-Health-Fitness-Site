@@ -1,0 +1,24 @@
+backend:
+  name: git-getaway
+  branch: master
+
+publish_mode: editorial_workflow
+
+media_folder: "src/images"
+
+public_folder: "/images"
+
+collections:
+  - name: "posts"
+    label: "Post"
+    folder: "_src/posts"
+    create: true
+    slug: "{{slug}}"
+    fields: 
+      - {label: "title", name: "title", widget: "string"}
+      - {label: "slug", name: "slug", widget: "string"}
+      - {label: "date", name: "date", widget: "datetime"}
+      - {label: "author", name: "author", widget: "string"}
+      - {label: "featureImage", name: "featureImage", widget: "image"}
+      - {label: "body", name: "body", widget: "markdown"}
+
