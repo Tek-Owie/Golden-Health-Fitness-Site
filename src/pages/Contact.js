@@ -18,8 +18,10 @@ const contactUs = ({data}) => {
                 <P>Do you have questions, comments and contributions?
                     <br/>
                     Feel free to reach us on our social media handles 
-                    <li><a href="https://www.instagram.com/golden_lilian_okeze/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
-                    <li><a href="https://api.whatsapp.com/send?phone=2347063319828&text=Hi,%20I'm%20interested%20in%20learning%20more%20about%20Golden%20Health%20&%20Fitness" target="_blank" rel="noopener noreferrer">WhatsApp</a></li>
+                    <ul>
+                        <li><a href="https://www.instagram.com/golden_lilian_okeze/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=2347063319828&text=Hi,%20I'm%20interested%20in%20learning%20more%20about%20Golden%20Health%20&%20Fitness" target="_blank" rel="noopener noreferrer">WhatsApp</a></li>
+                    </ul>                    
                     <br/>
                     Give us a shout-out and we will respond to you ASAP!
                 </P>
