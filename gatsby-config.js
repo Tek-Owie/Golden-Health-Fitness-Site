@@ -3,10 +3,10 @@ module.exports = {
     title: `Golden Health & Fitness Blog`,
     description: `Kickstart your journey to fitness and physical pride with this simple, interactive blog.`,
     keywords: `"fitness trainer", "fitness blog"`,
-    siteUrl: `localhost:8000`,
+    siteUrl: `https://goldenhealthfitness.netlify.app`,
     author: `Lily Gold`,
     social: {
-      instagram: `li_goldie`,
+      instagram: `golden_lilian_okeze`,
     },
   },
   plugins: [
@@ -102,7 +102,7 @@ module.exports = {
         background_color: `hsl(227,2%,12%)`,
         theme_color: `#d4af37`,
         display: `standalone`,
-        icon: `src/images/BG Main.png`, // This path is relative to the root of the site.
+        icon: `BG Main.png`, // This path is relative to the root of the site.
         cache_busting_mode: `none`, 
       },
     },
