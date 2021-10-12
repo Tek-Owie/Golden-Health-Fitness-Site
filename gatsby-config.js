@@ -39,12 +39,12 @@ module.exports = {
         cookieDomain: "example.com",
       },
     },
-    {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
+//     {
+//       resolve: `gatsby-plugin-netlify-cms`,
+//       options: {
+//         modulePath: `${__dirname}/src/cms/cms.js`,
+//       },
+//     },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
