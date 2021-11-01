@@ -15,11 +15,17 @@ const aboutPage = ({data}) => {
             <Post>
                 <H1>what is golden health & fitness?</H1>
                 <Img fluid={featureImage}/>
-                <P>Golden Health & Fitness is a fitness, health, 
-                wellness and lifestyle brand whose vision is to inspire, 
-                educate and motivate everyone into the journey of living and embracing healthy lifestyles.</P>
-                <P>It helps to dissect the nitty-gritties of being fit into smaller, 
-                ingestible pieces for the consumption of the simplest minds.</P>
+                <P>Golden Health & Fitness is an innovative brand that is concerned with the health and wellness of her society, 
+                    this brand's sole aim is to achieve a healthy, fit body for all.
+                </P>
+                <P>With the nature of hardship and activities in the nation, 
+                    Golden Health & Fitness is a platform that is concerned with providing quality orientation on 
+                    the importance of exercise and the manner to be fit
+                </P>
+                <P>We have highly skilled professional trainers for 
+                    the purpose of educating you and to carry out routines that will aid in 
+                    giving a healthy body to all classes in the society.
+                 </P>
             </Post>
             <Footer/>
         </ContainerWrapper>
