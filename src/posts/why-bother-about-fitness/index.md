@@ -6,7 +6,7 @@ author: Henry Henks
 featureImage: fitWoman.jpg
 ---
 
-Being fit should be top of everyone's priority so as to enjoy the benefits outlined in this <a href="../fitness-and-why-we-whould-exercise-regularly">post.</a>
+Being fit should be top of everyone's priority so as to enjoy the benefits outlined in this <a href="../fitness-and-why-we-should-exercise-regularly">post.</a>
 Hence, everyone should be bothered about fitness because without a healthy mind the body can never function effectively,
 which might result to mental illness, unhealthy skin, and poor retentive ability. 
 However, in order to be fit, frequent exercise will help in building the body system against diseases and this will increase the livespan of an individual.
