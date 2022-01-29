@@ -23,7 +23,7 @@ query {
                 <a href="https://www.instagram.com/golden_lilian_okeze/" target="_blank" rel="noopener noreferrer">
                     <img src={data.instagram.publicURL} alt="instagram logo"></img>
                 </a>
-                <a href="https://api.whatsapp.com/send?phone=2347063319828&text=Hi,%20I'm%20interested%20in%20learning%20more%20about%20Golden%20Health%20&%20Fitness" target="_blank" rel="noopener noreferrer">
+                <a href="https://api.whatsapp.com/send?phone=2348119094844&text=Hi,%20I'm%20interested%20in%20learning%20more%20about%20Golden%20Health%20&%20Fitness" target="_blank" rel="noopener noreferrer">
                     <img src={data.whatsapp.publicURL} alt="whatsapp logo"></img>
                 </a>
             </FooterSocialIcons>
